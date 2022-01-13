@@ -5,7 +5,7 @@
     "manifest_version": 3,
     "content_scripts": [
         {
-          "matches": ["https://messari.io/article/*"],
+          "matches": ["https://messari.io/*"],
           "js": ["content-script.js"]
         }
     ]
