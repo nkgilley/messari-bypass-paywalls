@@ -5,7 +5,7 @@ window.addEventListener("load", watchForRedirect, false);
 function watchForRedirect() {
 
     // Select the node that will be observed for mutations
-    const targetNode = document.querySelector('div#root');
+    const targetNode = document.querySelector('div#__next');
 
     // Options for the observer (which mutations to observe)
     const config = { attributes: true, childList: true, subtree: true };
