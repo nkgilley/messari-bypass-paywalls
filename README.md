@@ -1,3 +1,5 @@
+## This extenstion is no longer working with the latest updates to Messari.
+
 # How to install
 1. Download the zip file of this repo. (Code > Download ZIP)
 2. Extract the zip file
